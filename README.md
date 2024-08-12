@@ -1,7 +1,6 @@
 # HipLandmarkDetection
-this is a two-stage VGG-based model to detect hip geometrical landmarks. Having this landmarks calculation of hip crucial measurements is possible. Precise calculation of these measurements could lead into better hip replacement artroplasty planning.
+This is a two-stage VGG-based model used to detect hip geometrical landmarks. Having these landmarks in the calculation of hip crucial measurements is possible. Precise calculation of these measurements could lead to better hip replacement arthroplasty planning.
 
-The data used in this word is publically available at:
-https://drive.google.com/drive/folders/1EcjYPTkeA_pEk3LIkJPThjA9wHopozQ8?usp=sharing
+The data that support the findings of this study are available from the corresponding author upon reasonable request.
 
-Please reference our work in the case of using this data.
+Please take a look at our work in case you use this data.
